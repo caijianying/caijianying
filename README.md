@@ -1,6 +1,6 @@
 ## 我是程序员小白菜 👋
 
-一个平平常常的程序员
+爱笑的人运气都不会太差，Let's Go！
 
 <!--
 **caijianying/caijianying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
